@@ -1,0 +1,7 @@
+---
+# A list of k8s object requirements
+name: tzankoswebpage
+type: microservice
+ingress: external-ingress
+hostname: tzankotzankov.net
+registry: tzankotzankov.net

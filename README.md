@@ -39,9 +39,9 @@ pytest -q test.py
 ```
 
 ## Building the k8s-manifest-creator in Docker:
- 
+```bash
 docker build -t creator .
-
+```
 ## Runing the k8s-manifest-creator in Docker:
 
 ```bash

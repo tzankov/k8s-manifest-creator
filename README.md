@@ -1,2 +1,2 @@
-# k8s-manifest-generator
+# k8s-manifest-creator
  
